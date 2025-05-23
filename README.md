@@ -1,6 +1,6 @@
 ### Hi there
 
-I'm Louie, a B.Sc. a student currently studying Computer Science.
+I'm Louie, a B.Sc. student currently studying Computer Science.
 
 You can reach me on [email](mailto:jannlouiealmirante@gmail.com).
 
